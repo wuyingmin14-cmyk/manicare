@@ -1,0 +1,8 @@
+.venv/
+.claude/
+__pycache__/
+*.pyc
+nail_virtual_try_on/cache/
+nail_virtual_try_on/output/
+*.log
+~$*.xlsx
